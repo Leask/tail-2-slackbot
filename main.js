@@ -17,7 +17,7 @@ var public = function(data) {
     request({
         url    : url,
         method : 'POST',
-        body   : data
+        body   : config.logfile + '> ' + data
     }, function(error, response, body) {
         log(error ? error : body);
     });
