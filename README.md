@@ -1,5 +1,5 @@
 # tail-2-slackbot
-Send messages to any public channel as Slackbot.
+`tail -f` the log files and send all the new lines to any public channel as Slackbot.
 
 ## Installation
 
