@@ -1,0 +1,14 @@
+{
+    "name": "tail-2-slackbot",
+    "description": "Send messages to any public channel as Slackbot.",
+    "version": "0.0.3",
+    "private": true,
+    "homepage": "https://github.com/Leask/tail-2-slackbot",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies" : {
+        "tail": "*",
+        "request": "*"
+    }
+}
