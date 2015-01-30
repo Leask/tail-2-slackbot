@@ -1,4 +1,7 @@
 # tail-2-slackbot
+
+![Screen Shot](https://raw.githubusercontent.com/Leask/tail-2-slackbot/master/images/demo.png)
+
 `tail -f` the log files and send all the new lines to any public channel as Slackbot.
 
 ## Installation
